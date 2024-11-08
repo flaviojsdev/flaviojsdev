@@ -1,5 +1,5 @@
 ## Olá! Me Chamo Flávio José!👋
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-jos%C3%A9-182b20322/)
 
 ![Flávio GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviojsdev&show_icons=true&theme=dark)
 
